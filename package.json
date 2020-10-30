@@ -1,0 +1,15 @@
+{
+  "name": "node-python-captcha",
+  "version": "1.0.0",
+  "description": "Captcha with Nodejs & Python",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TheSrinathKamath",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
